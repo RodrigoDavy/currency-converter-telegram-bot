@@ -11,7 +11,7 @@ A simple telegram bot that converts between currencies through the use of the Fi
 
 ## Running the bot
 
-Copy the credentials_example.json and rename it to credentials.json. Set the Telegram bot and FixerAPI token in credentials.json. Now you can run:
+Rename credentials_example.json to credentials.json, then edit it and set the Telegram bot and FixerAPI tokens. Now you can run:
 
 ```python
   python main.py
