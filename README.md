@@ -4,4 +4,6 @@ A simple telegram bot that converts between currencies through the use of the Fi
 
 ## Requisites
 
-You need to install the aiogram library and have a Telegram bot token
+- AIOGRAM module
+- Telegram bot token
+- FixerAPI token
